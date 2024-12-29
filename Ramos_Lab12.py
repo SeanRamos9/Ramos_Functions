@@ -71,8 +71,9 @@ def main():
             break
         else:
             print("Insufficient cash.")
-
-
+            
+if __name__ == "__main__":
+    main()
 
 
 
